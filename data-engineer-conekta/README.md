@@ -128,8 +128,6 @@ py app_numeros.py --numero numero_variable
 ```
 
 
-spark-shell --packages  org.postgresql:postgresql:9.4.1207.jre7 
-
 ## Autor
 
 * **Maria Valdes Moreno**
